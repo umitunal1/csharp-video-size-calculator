@@ -1,4 +1,4 @@
-# csharp-video-size-calculator
+# C# Video Size/Space Calculator
 C# Video Size Calculator that pre calculates before starting record according to record format, fps and audio channels, sample rate etc.
 
 ## Calculation Options
