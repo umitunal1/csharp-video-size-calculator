@@ -200,7 +200,7 @@ namespace VideoSpaceCalculator
 
             totalAudioSize = totalSecond() * calculateAudioSize(audioChannel, hertz, bit);
             totalMaterialSize = totalVideoSize + totalAudioSize;
-            result.Text = totalMaterialSize.ToString() + sizeType;
+            result.Text = totalMaterialSize.ToString() + " " + sizeType;
         }
 
         //Manual Fps Video Calculate
