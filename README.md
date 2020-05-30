@@ -8,4 +8,4 @@ C# Video Size Calculator that pre calculates before starting record according to
 	-Audio Sample Rate
 	-Audio Bit Depth
 	
-![alt text](http://umitunal.org/wp-content/github/videosizecalculator.PNG)
+![alt text](http://umitunal.org/wp-content/github/videosizecalculator1.PNG)
